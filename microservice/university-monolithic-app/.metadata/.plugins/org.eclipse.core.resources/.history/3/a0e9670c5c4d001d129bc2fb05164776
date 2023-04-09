@@ -1,0 +1,14 @@
+package com.infybuzz.cloud.service;
+
+import org.springframework.stereotype.Service;
+
+import com.infybuzz.cloud.response.AddressResponse;
+
+@Service
+public class AddressService {
+	
+	public AddressResponse getById(long id) {
+		return id;
+	}
+	
+}

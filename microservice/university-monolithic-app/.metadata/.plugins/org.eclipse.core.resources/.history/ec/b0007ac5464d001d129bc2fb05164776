@@ -1,0 +1,5 @@
+package com.infybuzz.cloud.request;
+
+public class CreateaddressRequest {
+
+}

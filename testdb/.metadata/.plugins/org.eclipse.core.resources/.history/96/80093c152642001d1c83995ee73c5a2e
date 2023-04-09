@@ -1,0 +1,5 @@
+package com.mongoTest.testdb.model;
+
+public class Student {
+
+}

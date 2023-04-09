@@ -1,0 +1,5 @@
+package com.infybuzz.cloud.response;
+
+public class AddressResponse {
+
+}

@@ -1,0 +1,5 @@
+package com.mongoTest.testdb.repository;
+
+public interface StudentRepo {
+
+}

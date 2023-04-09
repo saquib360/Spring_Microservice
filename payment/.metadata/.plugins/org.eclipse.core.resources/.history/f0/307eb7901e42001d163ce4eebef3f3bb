@@ -1,0 +1,7 @@
+package com.payment.payment.repository;
+
+import org.springframework.data.mongodb.repository.cdi.MongoRepositoryBean;
+
+public interface StudentRepo extends MongoRepositoryBean<T>{
+
+}

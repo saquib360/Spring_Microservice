@@ -1,0 +1,19 @@
+package com.payment.payment.model;
+
+import java.util.HashMap;
+import java.util.Map;
+
+public class Student {
+	String id= "StudentId45";
+	String name= "StudentName";
+	String className= "StudentClass";
+	String school= "StudentSchool";
+	public Map<String, String> getStudentData(Student student){
+		Map<String, String> studentData = new HashMap<>();
+		studentData.put("id", "StudentId");
+		studentData.put("name", "StudentName");
+		studentData.put("class", "StudentClass");
+		studentData.put("school", "StudentSchool");
+		return studentData;
+	}
+}
